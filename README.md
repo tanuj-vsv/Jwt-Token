@@ -1,1 +1,1 @@
-# Jwt-Token
+A Spring Boot project implementing JWT-based authentication and authorization.
